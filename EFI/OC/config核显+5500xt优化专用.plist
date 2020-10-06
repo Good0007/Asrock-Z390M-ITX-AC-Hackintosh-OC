@@ -114,6 +114,8 @@
 			<true/>
 			<key>ProvideCustomSlide</key>
 			<true/>
+			<key>ProvideMaxSlide</key>
+			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
 			<false/>
 			<key>SetupVirtualMap</key>
@@ -167,14 +169,14 @@
 				<string>ATY,Python</string>
 				<key>@3,name</key>
 				<string>ATY,Python</string>
+				<key>ATY,EFIVersion</key>
+				<string>01.01.190</string>
+				<key>PP_PhmSoftPowerPlayTable</key>
+				<data>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</data>
 				<key>device_type</key>
 				<string>ATY,PythonParent</string>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
-				<key>PP_PhmSoftPowerPlayTable</key>
-				<data>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</data>
-				<key>ATY,EFIVersion</key>
-				<string>01.01.190</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -185,6 +187,8 @@
 		<key>Add</key>
 		<array>
 			<dict>
+				<key>Arch</key>
+				<string>Any</string>
 				<key>BundlePath</key>
 				<string>Lilu.kext</string>
 				<key>Comment</key>
@@ -201,6 +205,8 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
+				<key>Arch</key>
+				<string>Any</string>
 				<key>BundlePath</key>
 				<string>VirtualSMC.kext</string>
 				<key>Comment</key>
@@ -217,6 +223,8 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
+				<key>Arch</key>
+				<string>Any</string>
 				<key>BundlePath</key>
 				<string>SMCProcessor.kext</string>
 				<key>Comment</key>
@@ -233,6 +241,8 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
+				<key>Arch</key>
+				<string>Any</string>
 				<key>BundlePath</key>
 				<string>SMCSuperIO.kext</string>
 				<key>Comment</key>
@@ -249,6 +259,8 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
+				<key>Arch</key>
+				<string>Any</string>
 				<key>BundlePath</key>
 				<string>WhateverGreen.kext</string>
 				<key>Comment</key>
@@ -265,6 +277,8 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
+				<key>Arch</key>
+				<string>Any</string>
 				<key>BundlePath</key>
 				<string>AppleALC.kext</string>
 				<key>Comment</key>
@@ -281,6 +295,8 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
+				<key>Arch</key>
+				<string>Any</string>
 				<key>BundlePath</key>
 				<string>IntelMausi.kext</string>
 				<key>Comment</key>
@@ -297,6 +313,8 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
+				<key>Arch</key>
+				<string>Any</string>
 				<key>BundlePath</key>
 				<string>NVMeFix.kext</string>
 				<key>Comment</key>
@@ -313,6 +331,8 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
+				<key>Arch</key>
+				<string>Any</string>
 				<key>BundlePath</key>
 				<string>USBPorts.kext</string>
 				<key>Comment</key>
@@ -329,6 +349,8 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
+				<key>Arch</key>
+				<string>Any</string>
 				<key>BundlePath</key>
 				<string>AirportBrcmFixup.kext</string>
 				<key>Comment</key>
@@ -345,6 +367,8 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
+				<key>Arch</key>
+				<string>Any</string>
 				<key>BundlePath</key>
 				<string>BrcmFirmwareData.kext</string>
 				<key>Comment</key>
@@ -361,6 +385,8 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
+				<key>Arch</key>
+				<string>Any</string>
 				<key>BundlePath</key>
 				<string>BrcmPatchRAM3.kext</string>
 				<key>Comment</key>
@@ -377,6 +403,8 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
+				<key>Arch</key>
+				<string>Any</string>
 				<key>BundlePath</key>
 				<string>BrcmBluetoothInjector.kext</string>
 				<key>Comment</key>
@@ -402,9 +430,13 @@
 			<key>Cpuid1Mask</key>
 			<data></data>
 		</dict>
+		<key>Force</key>
+		<array/>
 		<key>Patch</key>
 		<array>
 			<dict>
+				<key>Arch</key>
+				<string>Any</string>
 				<key>Base</key>
 				<string>__ZN8AppleRTC18setupDateTimeAlarmEPK11RTCDateTime</string>
 				<key>Comment</key>
@@ -447,6 +479,8 @@
 			<false/>
 			<key>DisableIoMapper</key>
 			<false/>
+			<key>DisableLinkeditJettison</key>
+			<false/>
 			<key>DisableRtcChecksum</key>
 			<false/>
 			<key>DummyPowerManagement</key>
@@ -465,6 +499,15 @@
 			<false/>
 			<key>XhciPortLimit</key>
 			<false/>
+		</dict>
+		<key>Scheme</key>
+		<dict>
+			<key>FuzzyMatch</key>
+			<false/>
+			<key>KernelArch</key>
+			<string>Auto</string>
+			<key>KernelCache</key>
+			<string>Auto</string>
 		</dict>
 	</dict>
 	<key>Misc</key>
@@ -523,14 +566,26 @@
 			<true/>
 			<key>AllowSetDefault</key>
 			<true/>
+			<key>ApECID</key>
+			<integer>0</integer>
 			<key>AuthRestart</key>
 			<false/>
 			<key>BootProtect</key>
 			<string>None</string>
+			<key>DmgLoading</key>
+			<string>Signed</string>
+			<key>EnablePassword</key>
+			<false/>
 			<key>ExposeSensitiveData</key>
 			<integer>11</integer>
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
+			<key>PasswordHash</key>
+			<data></data>
+			<key>PasswordSalt</key>
+			<data></data>
+			<key>SecureBootModel</key>
+			<string>Default</string>
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>Vault</key>
@@ -636,6 +691,8 @@
 			<false/>
 			<key>MLB</key>
 			<string>C02927306GULNV9CB</string>
+			<key>ProcessorType</key>
+			<integer>0</integer>
 			<key>ROM</key>
 			<data></data>
 			<key>SpoofVendor</key>
@@ -759,9 +816,13 @@
 			<false/>
 			<key>AppleImageConversion</key>
 			<false/>
+			<key>AppleImg4Verification</key>
+			<false/>
 			<key>AppleKeyMap</key>
 			<false/>
 			<key>AppleRtcRam</key>
+			<false/>
+			<key>AppleSecureBoot</key>
 			<false/>
 			<key>AppleSmcIo</key>
 			<true/>
