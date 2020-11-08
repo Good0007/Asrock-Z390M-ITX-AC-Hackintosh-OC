@@ -3,6 +3,10 @@
 [我的博客同步更新](https://www.chenweikang.top/?p=986 "左手代码右手诗")
 
 ### 更新记录
+- 20201108-release-0.6.3
+
+更新opencore 0.6.3 release，macOS 11.0 暂未测试；
+
 - 20200604-release-0.6.0
 
 更新opencore 0.6.0 release，macOS 11.0 暂未测试；
