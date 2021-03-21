@@ -3,6 +3,13 @@
 [我的博客同步更新](https://www.chenweikang.top/?p=986 "左手代码右手诗")
 
 ### 更新记录
+
+- 2020321-release-0.6.8
+
+更新opencore 0.6.8 release；
+已稳定支持bigsur macOS 11.x；
+更新主题样式，更新相关驱动。
+
 - 20201108-release-0.6.3
 
 更新opencore 0.6.3 release，macOS 11.0 暂未测试；
