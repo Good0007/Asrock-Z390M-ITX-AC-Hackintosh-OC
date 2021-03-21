@@ -6,9 +6,14 @@
 
 - 2020321-release-0.6.8
 
-更新opencore 0.6.8 release；
-已稳定支持bigsur macOS 11.x；
-更新主题样式，更新相关驱动。
+1).更新opencore 0.6.8 release；
+
+2).已稳定支持bigsur macOS 11.x；
+
+3).更新主题样式，更新相关驱动；
+
+4).由于新版本bootstrap已被弃用，若更新后OC引导丢失，请进win|pe系统使用easyuefi或者bootice重新将引导定位至:EFI\BOOT\BOOTx64.efi。
+
 
 - 20201108-release-0.6.3
 
