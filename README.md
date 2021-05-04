@@ -4,7 +4,15 @@
 
 ### 更新记录
 
-- 2020321-release-0.6.8
+- 20210504-release-0.6.9
+
+1).更新opencore 0.6.9 release；
+
+2).已测试更新到bigsur macOS 11.3.1；
+
+3).更新主题样式，更新相关驱动；
+
+- 20210321-release-0.6.8
 
 1).更新opencore 0.6.8 release；
 
