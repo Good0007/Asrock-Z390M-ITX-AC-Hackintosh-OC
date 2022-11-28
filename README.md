@@ -4,6 +4,15 @@
 
 ### 更新记录
 
+- 20221128-release-0.8.6
+
+1).更新opencore 0.8.6 release；
+
+2).已测试更新到 macOS Monterey 12.6.1；
+
+3).更新主题样式，更新相关驱动；
+
+
 - 20210504-release-0.6.9
 
 1).更新opencore 0.6.9 release；
