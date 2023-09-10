@@ -14,7 +14,7 @@
 
 4).本EFI默认使用1820A驱动，Mac 14 (Sonoma)上需要使用OCLP打补丁： https://bbs.pcbeta.com/viewthread-1975133-1-1.html
 
-5).请自行添加序列号！
+5).请自行添加或修改为本机的序列号！
 
 - 20221128-release-0.8.6
 
@@ -65,7 +65,7 @@
 - 电源：EVGA SFX 650w 金牌
 - 主板：华擎 Asrock Z390M-ITX/ac
 - CPU：i5 9400
-- 显卡：技嘉Radeon RX 5500 XT GAMING OC 8GB
+- 显卡：rx470
 - 网卡：DW1820A (0vw3t3 – 0x0023)
 - 内存：海盗船 DDR4 3200 16GBx2
 - 硬盘：西数黑盘 sn750
