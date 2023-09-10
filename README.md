@@ -4,6 +4,18 @@
 
 ### 更新记录
 
+- 20230910-release-0.9.4
+
+1).更新opencore 0.9.4 release；
+
+2).已测试更新到 macOS 14.0 Beta5；
+
+3).本EFI兼容 mac 11 (Bigsur)  -> Mac 14 (Sonoma) ，使用config_Mac11-13.plist；
+
+4).本EFI默认使用1820A驱动，Mac 14 (Sonoma)上需要使用OCLP打补丁： https://bbs.pcbeta.com/viewthread-1975133-1-1.html
+
+5).请自行添加序列号！
+
 - 20221128-release-0.8.6
 
 1).更新opencore 0.8.6 release；
